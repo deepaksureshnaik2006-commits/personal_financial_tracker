@@ -181,9 +181,6 @@ export default function Login() {
           </TabsContent>
         </Tabs>
 
-        <div className="mt-6 text-center text-sm text-muted-foreground">
-          <p>First user to register becomes the admin</p>
-        </div>
       </div>
     </div>
   );
